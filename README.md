@@ -1,2 +1,2 @@
-# node-basics
+# node-js-cli
 node starter
