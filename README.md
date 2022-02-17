@@ -1,2 +1,2 @@
 # node-js-cli
-node starter
+node fs app

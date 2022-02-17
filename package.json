@@ -1,5 +1,5 @@
 {
-  "name": "node-basics",
+  "name": "node-js-cli",
   "version": "1.0.0",
   "description": "node starter",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amarkatechia/node-basics.git"
+    "url": "git+https://github.com/amarkatechia/node-js-cli.git"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +17,10 @@
     "nls": "index.js"
   },
   "bugs": {
-    "url": "https://github.com/amarkatechia/node-basics/issues"
+    "url": "https://github.com/amarkatechia/node-js-cli/issues"
   },
-  "homepage": "https://github.com/amarkatechia/node-basics#readme"
+  "homepage": "https://github.com/amarkatechia/node-js-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
