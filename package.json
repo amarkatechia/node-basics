@@ -1,0 +1,23 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "node starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarkatechia/node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/amarkatechia/node-basics/issues"
+  },
+  "homepage": "https://github.com/amarkatechia/node-basics#readme"
+}
